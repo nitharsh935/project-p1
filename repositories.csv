@@ -1,0 +1,11 @@
+login,full_name,created_at,stargazers_count,watchers_count,language,has_projects,has_wiki,license_name
+octocat,octocat/Hello-World,2011-01-26T19:06:43Z,123,50,JavaScript,true,false,MIT
+octocat,octocat/Spoon-Knife,2012-04-19T11:12:20Z,456,100,HTML,true,true,Apache-2.0
+mojombo,mojombo/grit,2007-10-10T04:18:20Z,789,200,Ruby,false,true,GPL-3.0
+mojombo,mojombo/jekyll,2008-03-15T07:28:49Z,12345,400,Ruby,true,true,MIT
+defunkt,defunkt/resque,2009-02-23T06:50:18Z,6789,150,Ruby,false,true,MIT
+defunkt,defunkt/github-flavored-markdown,2010-01-05T17:32:28Z,2468,80,JavaScript,true,false,Apache-2.0
+holman,holman/dotfiles,2011-04-08T12:39:06Z,1357,75,Shell,true,true,MIT
+holman,holman/feedback,2012-07-14T09:21:02Z,2468,100,JavaScript,false,true,MIT
+atmos,atmos/brainstem,2013-01-22T13:55:09Z,4567,125,TypeScript,true,true,Apache-2.0
+atmos,atmos/hubot,2014-06-30T17:20:40Z,7890,200,CoffeeScript,false,true,MIT
