@@ -1,0 +1,11 @@
+login,name,company,location,email,hireable,bio,public_repos,followers,following,created_at
+octocat,The Octocat,GITHUB,Toronto,octocat@github.com,true,Hi I'm the Octocat,100,10000,100,2008-01-14T04:33:35Z
+mojombo,Tom Preston-Werner,SHOPIFY,Toronto,tom@shopify.com,true,GitHub Founder,80,5000,200,2007-10-07T16:25:19Z
+defunkt,Chris Wanstrath,SHOPIFY,Toronto,chris@shopify.com,true,CEO @github,90,4000,150,2007-10-20T05:33:41Z
+holman,Zach Holman,SHOPIFY,Toronto,zach@shopify.com,true,Works @github,85,3000,300,2009-05-16T15:39:12Z
+atmos,Jessica Kerr,SHOPIFY,Toronto,jessica@shopify.com,true,Writes code, reads code,75,2500,100,2011-01-25T18:47:17Z
+johndoe,John Doe,,Toronto,,false,,50,150,50,2006-01-01T00:00:00Z
+janedoe,Jane Doe,,Toronto,,false,,45,120,40,2006-02-15T00:00:00Z
+jsmith,John Smith,,Toronto,,true,,60,180,60,2006-03-30T00:00:00Z
+maryjones,Mary Jones,,Toronto,,false,,55,140,50,2006-05-01T00:00:00Z
+bobanders,Bob Anders,,Toronto,,true,,65,200,70,2006-06-15T00:00:00Z
